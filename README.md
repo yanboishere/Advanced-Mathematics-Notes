@@ -9,7 +9,7 @@
 <br>
 
 ## 下载
-[Releases](https://github.com/yanboishere/SongHao-Online-Course-of-Advanced-Mathematics-Notes/releases)
+### [Releases](https://github.com/yanboishere/SongHao-Online-Course-of-Advanced-Mathematics-Notes/releases)
 
 <br>
 
